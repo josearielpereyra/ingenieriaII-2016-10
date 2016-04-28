@@ -6,6 +6,7 @@ public class Ventana extends JFrame {
 	public Ventana() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(400, 500);
+		setTitle("Creado Por Ariel");
 	}
 	
 	public static void main(String[] args) {
